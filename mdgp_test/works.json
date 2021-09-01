@@ -1,0 +1,68 @@
+{
+    "wd": [
+        "404 not Found",
+        "互動媒體類",
+        "動畫類",
+        "數位遊戲類"
+    ],
+    "1": [
+        {
+            "name": "test",
+            "staff": [
+                "施宛伶",
+                "#NAME",
+                "施宛伶"
+            ],
+            "img":[
+                "../image/works/wd-01/test/01.png",
+                "../image/works/wd-01/test/02.png",
+                "../image/works/wd-01/test/03.png",
+                "../image/works/wd-01/test/04.png",
+                "../image/works/wd-01/test/05.png",
+                "../image/works/wd-01/test/06.png"
+            ],
+            "introduction": "This is a test introduction.This is a test introduction.This is a test introduction.<br>This is a test introduction."
+        },
+        {
+            "name": "test2",
+            "staff": [
+                "施宛伶",
+                "#NAME",
+                "施宛伶"
+            ],
+            "img":[
+                "../image/works/wd-01/test/01.png",
+                "../image/works/wd-01/test/02.png",
+                "../image/works/wd-01/test/03.png",
+                "../image/works/wd-01/test/04.png",
+                "../image/works/wd-01/test/05.png",
+                "../image/works/wd-01/test/06.png"
+            ],
+            "introduction": "This is a test2 introduction.This is a test2 introduction.This is a test2 introduction.<br>This is a test2 introduction."
+        },
+        {
+            "name": "毒家快樂",
+            "staff": [
+                "王小明",
+                "王小明",
+                "王小明"
+            ],
+            "img":[
+                "../image/works/wd-01/test/01.png",
+                "../image/works/wd-01/test/02.png",
+                "../image/works/wd-01/test/03.png",
+                "../image/works/wd-01/test/04.png",
+                "../image/works/wd-01/test/05.png",
+                "../image/works/wd-01/test/06.png"
+            ],
+            "introduction": "青山依舊在，幾度夕陽紅。慣看秋月春風。一壺濁酒喜相逢，浪花淘盡英雄。是非成敗轉頭空，滾滾長江東逝水，白髮漁樵江渚上，古今多少事，都付笑談中。"
+        }
+
+    ],
+    "2": [
+        
+    ],
+    "3": [
+        
+    ]
+}

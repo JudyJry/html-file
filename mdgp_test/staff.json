@@ -1,0 +1,20 @@
+{
+    "#NAME": {
+        "class": "V4A",
+        "number":"00",
+        "email": "#email",
+        "facebook": "#facebook",
+        "instagram": "#instagram",
+        "img": "../image/staff/V4A00.png",
+        "quote": "不想做事。"
+    },
+    "施宛伶": {
+        "class": "V4A",
+        "number":"17",
+        "email": "#email",
+        "facebook": "#facebook",
+        "instagram": "#instagram",
+        "img": "../image/staff/V4A17.png",
+        "quote": "不想做事。"
+    }
+}
